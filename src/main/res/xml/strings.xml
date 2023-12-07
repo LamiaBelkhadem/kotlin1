@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Car Rental App</string>
+    <string name="view_cars">View Cars</string>
+    <string name="book_car">Book a Car</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="top_banner_description">Top Banner Image</string>
+</resources>
